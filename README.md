@@ -14,7 +14,7 @@ This is a machine learning system trained on 2,331 Instagram posts. It reads you
 
 It runs as a live web app — no coding needed.
 
-**Try it here:** [Live App](https://abdullahilyas1-instagram-engagement-predictor.streamlit.app)
+**Try it here:** [Live App](https://instagram-engagement-predictor-fl2z.onrender.com)
 
 ---
 
