@@ -171,4 +171,4 @@ if st.button("🔮 Predict My Engagement", use_container_width=True):
         else:
             st.success("Your post looks great! No major improvements needed.")
 
-st.markdown('<div class="footer">Abdullah Ilyas | A00081833 | MSc Data Science Dissertation</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">Abdullah Ilyas</div>', unsafe_allow_html=True)
